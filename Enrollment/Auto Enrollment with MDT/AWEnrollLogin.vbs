@@ -1,2 +1,0 @@
-Set oShell = CreateObject("Shell.Application")  
- oShell.ShellExecute "powershell", "-WindowStyle Hidden -nologo -noprofile -NonInteractive -executionpolicy bypass C:\VMware_IT\Installs\AWEnrollLogin.ps1", "", "runas", 0
